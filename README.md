@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2086339)](https://r00trose.github.io/r00trose/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://r00trose.github.io/r00trose/)
