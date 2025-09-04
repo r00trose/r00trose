@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2086339" style='border:none;'></iframe>
