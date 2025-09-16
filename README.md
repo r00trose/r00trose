@@ -1,4 +1,4 @@
-Hi there 👋 I'm a New Media and Communication graduate, now pursuing a Master's in Artificial Intelligence. Cybersecurity Trainee with hands-on experience in SOC analyst labs (TryHackMe, HackTheBox, LetsDefend). Passionate about AI, cybersecurity, and data-driven problem solving.  
+Hi there 👋 I'm now pursuing a Master's in Artificial Intelligence. Cybersecurity Trainee with hands-on experience in SOC analyst labs (TryHackMe, HackTheBox, LetsDefend). Passionate about AI, cybersecurity, and data-driven problem solving.  
 
 <!--
 **r00trose/r00trose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
